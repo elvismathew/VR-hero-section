@@ -30,4 +30,6 @@
 * **Font Awesome:** Included via CDN.
 
 ## visuals
-![Landing page appearance](images\vr project.png "A screenshot of the landing page")
+<center>
+![Landing page appearance](https://github.com/elvismathew/VR-hero-section/blob/main/images/vr_project.png "A screenshot of the landing page")
+</center>
