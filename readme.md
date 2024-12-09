@@ -31,5 +31,5 @@
 
 ## visuals
 <center>
-C:\Users\PC\Documents\VR hero section\images\vr project.png
+![vr project](https://github.com/user-attachments/assets/409ad951-702c-4031-9811-3491f048178c)
 </center>
