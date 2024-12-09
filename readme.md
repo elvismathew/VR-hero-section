@@ -31,5 +31,5 @@
 
 ## visuals
 <center>
-![Landing page appearance](https://github.com/elvismathew/VR-hero-section/blob/main/images/vr_project.png "A screenshot of the landing page")
+C:\Users\PC\Documents\VR hero section\images\vr project.png
 </center>
